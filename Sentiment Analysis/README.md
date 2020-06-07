@@ -1,1 +1,3 @@
 # Sentiment Analysis
+Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis allows businesses to identify customer sentiment toward products, brands or services in online conversations and feedback.
+HelpMate uses sentiment analysis to understand the reviews context, this is crucial for HelpMate since as a peer to peer platform we need to observe the quality of the agents and based on them and using reinfrocement learning our platform can identify if any user is doing wrong. Anomaly is being detected and then the decisions are made to keep or punish the users. 
